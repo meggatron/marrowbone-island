@@ -6,16 +6,12 @@ Python-based text adventure game, iterative versions for teaching
 
 Each version highlights a different concept in Python. Class one is pseduocode and set up, no code yet. 
 Click below to play:
+## 🚀 Click to Play
 
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-002-Tuesday.py) **Day 2** – Variables, Data Types, and Input
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-003-Wednesday.py) **Day 3** – While Loops, Lists, Logic
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-004-Thursday.py) **Day 4** – Algorithms and Debugging
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-005-Friday.py) **Day 5** – Functions
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-006-Monday.py) **Day 6** – Dictionaries
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-007-Tuesday.py) **Day 7** – File Reading & Writing
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-008-Wednesday.py) **Day 8** – Nested Logic and Operators
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-009-Thursday.py) **Day 9** – Easter Egg: Giant Shrimp Haiku!
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=Marrowbone-Island-010-Friday.py) **Day 10** – Final Game Map and Locations
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-002.ipynb) **Day 2 – Variables & Input**
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-003.ipynb) **Day 3 – Loops & Lists**
+...
+
 
 
 ## Versions
