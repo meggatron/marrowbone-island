@@ -4,6 +4,9 @@ Python-based text adventure game, iterative versions for teaching
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=main.py)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch.ipynb)
+
+
 
 ## Versions
 
