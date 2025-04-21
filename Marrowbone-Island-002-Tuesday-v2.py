@@ -4,7 +4,7 @@ name = input("What is your name, adventurer? ")
 
 age = int(input("How old are you? "))
 
-weight = float(input("How much does your backpack weigh (in pounds)? "))
+weight = float(input("How much does your backpack weigh (use a decimal point)? "))
 
 ready = input("Are you ready to begin your quest? (yes/no) ").lower()
 is_ready = ready == "yes"
