@@ -6,13 +6,18 @@ Python-based text adventure game, iterative versions for teaching
 
 Each version highlights a different concept in Python. Class one is pseduocode and set up, no code yet. 
 Click below to play:
-## 🚀 Click to Play
 
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-002.ipynb) **Day 2 – Variables & Input**
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-003.ipynb) **Day 3 – Loops & Lists**
-...
+## Click to Play
 
-
+- [Play Day 2](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-002.ipynb)
+- [Play Day 3](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-003.ipynb)
+- [Play Day 4](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-004.ipynb)
+- [Play Day 5](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-005.ipynb)
+- [Play Day 6](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-006.ipynb)
+- [Play Day 7](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-007.ipynb)
+- [Play Day 8](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-008.ipynb)
+- [Play Day 9](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-009.ipynb)
+- [Play Final Game – Day 10](https://mybinder.org/v2/gh/meggatron/marrowbone-island/HEAD?filepath=launch-010.ipynb)
 
 ## Versions
 
