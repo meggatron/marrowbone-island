@@ -13,4 +13,4 @@ Python-based text adventure game, iterative versions for teaching
 7. `Marrowbone-Island-007-Tuesday.py` — file reading & writing
 8. `Marrowbone-Island-008-Wednesday.py` — nested logic, operators
 9. `Marrowbone-Island-009-Thursday.py` — easter egg with mad libs
-10. `Marrowbone-Island-010-Friday.py` — more locations
+10. `Marrowbone-Island-010-Friday.py` — more locations, just a demo for last or first day?
