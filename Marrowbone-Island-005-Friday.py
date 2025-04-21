@@ -60,13 +60,15 @@ def forest():
 player_name = intro()
 current_location = 'dock'
 
-#locations dictionary
-locations = {
-    'dock': dock,
-    'trail': trail,
-    'forest': forest
-}
-
-# main game loop
+# main game loop (no dictionaries)
 while True:
-    current_location = locations[current_location]()
+    if current_location == 'dock':
+        current_location = dock()
+    elif current_location == 'trail':
+        current_location = trail()
+    elif current_location == 'forest':
+        current_location = forest()
+    else:
+        print("You seem to be lost... Ending game.")
+        break
+
