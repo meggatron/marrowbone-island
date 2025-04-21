@@ -1,19 +1,17 @@
+#functions
+
 import random
 import time
 
 weather = ["foggy", "rainy", "sunny"]
 inventory = []
 
-
-# Function: Introduction screen
 def intro():
     print("You disembark from a ferry onto Marrowbone Island.")
     name = input("What is your name, adventurer? > ")
     print(f"Welcome, {name}. Your quest begins now...")
     return name
 
-
-# Function: Dock location
 def dock():
     print(f"\nYou are on a {random.choice(weather)} dock. Paths lead north to a trail.")
     move = input("Where do you go? > ").lower()
@@ -23,8 +21,6 @@ def dock():
         print("Try typing 'go north' or just 'north'.")
         return 'dock'
 
-
-# Function: Trail location
 def trail():
     print("\nYou begin walking up the trail.")
     for step in range(1, 4):
@@ -40,8 +36,6 @@ def trail():
         print("Try 'west' or 'south'.")
         return 'trail'
 
-
-# Function: Forest location
 def forest():
     print(f"\nYou step into a {random.choice(weather)} forest. The trees are thick and mossy.")
     if "map" not in inventory:
@@ -62,18 +56,17 @@ def forest():
         print("Try typing 'east'.")
         return 'forest'
 
-
-# Start game
+#start game
 player_name = intro()
 current_location = 'dock'
 
-# Location dispatcher
+#locations dictionary
 locations = {
     'dock': dock,
     'trail': trail,
     'forest': forest
 }
 
-# Main game loop
+# main game loop
 while True:
     current_location = locations[current_location]()
