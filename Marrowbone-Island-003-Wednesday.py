@@ -6,6 +6,8 @@
 #solve a logic problem
 #import external library
 
+#remove or comparisons and bring in 2nd Wednesday 
+
 import random
 import time
 
