@@ -22,20 +22,23 @@ current_location = 'dock'
 while True:
     if current_location == 'dock':
         print(f"\nYou are on a {random.choice(weather)} dock. Paths lead north to a trail.")
-        move = input("Where do you go? > ").lower()
-        if move == "go north" or move == "north":
+        move = input("Type 'north' to move forward. > ").lower()
+        if move == "north":
             current_location = 'trail'
         else:
-            print("Try typing 'go north' or just 'north'.")
+            print("You can only type 'north' for now.")
 
-    elif current_location == 'trail':
+    if current_location == 'trail':
         print("\nYou begin walking up the trail.")
-        for step in range(1, 4):
-            print(f"Step {step}...")
-            time.sleep(0.5)  # pause for half a second
+        print("Step 1...")
+        time.sleep(0.5)
+        print("Step 2...")
+        time.sleep(0.5)
+        print("Step 3...")
+        time.sleep(0.5)
         print(f"You are on a {random.choice(weather)} trail. You can return south to the dock.")
-        move = input("Where do you go? > ").lower()
-        if move == "go south" or move == "south":
+        move = input("Type 'south' to return. > ").lower()
+        if move == "south":
             current_location = 'dock'
         else:
-            print("Try typing 'go south' or just 'south'.")
+            print("You can only type 'south' for now.")
