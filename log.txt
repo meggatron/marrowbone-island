@@ -27,3 +27,8 @@ Entered forest
 Entered forest
 Entered trail
 Entered cliff
+Entered dock
+Entered trail
+Entered forest
+Entered trail
+Entered cliff
