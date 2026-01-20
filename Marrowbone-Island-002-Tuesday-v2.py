@@ -1,4 +1,5 @@
-#v2 is only for teaching these concepts, simpler v1 used to build game moving on
+# Marrowbone Island – teaching excerpt: intro
+# Written by Meghan Thréinfhir
 
 print("You disembark from a ferry onto Marrowbone Island.")
 
