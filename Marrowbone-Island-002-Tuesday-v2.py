@@ -1,4 +1,4 @@
-# Marrowbone Island – teaching excerpt: intro
+# Marrowbone Island – teaching excerpt
 # Written by Meghan Thréinfhir
 
 print("You disembark from a ferry onto Marrowbone Island.")
@@ -14,7 +14,7 @@ is_ready = ready == "yes"
 
 print(f"\nWelcome, {name}. You are {age} years old, carrying {weight} pounds of gear.")
 
-if is_ready:
+if is_ready: 
     print("You take your first step toward the unknown...")
 else:
-    print("You hesitate at the edge of the dock. But the wind pushes you forward.")
+    print("You hesitate at the edge of the dock. Maybe next time.")
